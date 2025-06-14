@@ -1,0 +1,13 @@
+Copyright © 2025 Pixel Sanctuary Discord Server
+All rights reserved.
+
+Join our Discord server: https://discord.gg/BRwMpTga2J
+
+This file and its contents are provided by Pixel Sanctuary.
+The manifest and lua files in this package are for use with the PixelPuller bot.
+
+File Information:
+- App ID: 3241660
+- Depot ID: 3241661
+- Manifest ID: 6932727267039151271
+- Generated: Sat, 14 Jun 2025 16:30:48 GMT
